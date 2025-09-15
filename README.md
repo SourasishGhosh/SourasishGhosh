@@ -1,13 +1,19 @@
-#  👋 Hi, I’m @SourasishGhosh
-- 👀 Currently I am pursuing a Data Science course from IITM and doing my M.Sc degree in Atmospheric Sciences
-- 🌱 I have currently found myself proficient in Python Programming and worked on various libraries of it (e.g., Matplotlib,Pandas,NumPy, etc).
-      Also proficient in SQL,Excel etc and various other skills.
-- 💞️ I’m looking to collaborate on projects of Data Analytics and Data Science
+**Hark, bold explorer, and welcome to this digital domain!**
+You've stumbled upon a hidden trove of knowledge and craftsmanship, a testament to the digital arts of this age. This scroll, the README, shall serve as your guide through this repository, a map of the treasures within.
+
+You've stumbled upon the personal workshop of Sourasish Ghosh, a humble seeker of knowledge and a Data Science enthusiast.
+My Journey
+Currently, I'm deep in the pursuit of wisdom, studying Data Science at IITM and exploring the skies through my M.Sc degree in Atmospheric Sciences. My mind is abuzz with the fascinating connections between numbers and the natural world.
+My Skills & Tools:
+I've found my footing and become proficient in the language of Python, wielding libraries like Matplotlib, Pandas,Pytorch,Tensorflow,Scipy,NumPy etc. to unravel complex datasets. Beyond that, I am also well-versed in SQL, Excel, and a variety of other useful tools.
+Seeking Collaborators
+I am actively looking to join forces on projects related to Data Analytics and Data Science. If you have a quest that requires a skilled data-wrangler, I am ready to lend my expertise.
+Contact
+Should you wish to send a raven, you can reach me at sourasishghosh02@gmail.com. I look forward to hearing from you and embarking on new adventures together!
+
 - 📫 You can reach me via my mail: sourasishghosh02@gmail.com
 
-A Traveler's Guide to the GitHub Repository
-Hark, bold explorer, and welcome to this digital domain!
-You've stumbled upon a hidden trove of knowledge and craftsmanship, a testament to the digital arts of this age. This scroll, the README, shall serve as your guide through this repository, a map of the treasures within.
+
 The Repository's Charter
 This domain is dedicated to the ancient craft of Software Development, a practice that shapes the very fabric of our digital world. Herein lies the source code, the very blueprints of our creations.
 Where to Find the Lore
