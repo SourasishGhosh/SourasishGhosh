@@ -1,33 +1,60 @@
-The Chronicle of Sourasish Ghosh 📜
+### The Chronicle of Sourasish Ghosh 📜
 
-Hark, bold explorer, and welcome to this digital domain! 👑
+**Hark, bold explorer, and welcome to this digital domain!** 👑
 
-You've stumbled upon the personal workshop of Sourasish Ghosh, a humble seeker of knowledge and a Data Science enthusiast. Within this repository lies a chronicle of my endeavors, a testament to the digital arts of this age. 💻
+You've stumbled upon the personal workshop of **Sourasish Ghosh**, a humble seeker of knowledge and a Data Science enthusiast. Within this repository lies a chronicle of my endeavors, a testament to the digital arts of this age. 💻
 
-My Journey 🗺️
-I am currently deep in the pursuit of wisdom, studying Data Science at IITM and exploring the skies through my M.Sc. degree in Atmospheric Sciences. My mind is abuzz with the fascinating connections between numbers and the natural world, and I am driven by the quest to unravel their secrets. 🌌
+---
 
-The Tools of My Trade 🛠️
-I've found my footing and become proficient in the language of Python 🐍, wielding libraries like Matplotlib, Pandas, PyTorch, TensorFlow, SciPy, and NumPy to unravel complex datasets. Beyond that, I am also well-versed in SQL, Excel, and a variety of other useful tools for my craft. 📊
+### My Journey 🗺️
 
-My Projects & Repositories 🏰
+I am currently deep in the pursuit of wisdom, studying **Data Science** at IITM and exploring the skies through my M.Sc. degree in **Atmospheric Sciences**. My mind is abuzz with the fascinating connections between numbers and the natural world, and I am driven by the quest to unravel their secrets. 🌌
+
+---
+
+### The Tools of My Trade 🛠️
+
+I've found my footing and become proficient in the language of **Python** 🐍, wielding libraries like *Matplotlib, Pandas, PyTorch, TensorFlow, SciPy, and NumPy* to unravel complex datasets. Beyond that, I am also well-versed in **SQL**, **Excel**, and a variety of other useful tools for my craft. 📊
+
+---
+
+### My Projects & Repositories 🏰
+
 Herein lie the fruits of my labor, each project a tale in itself. Feel free to explore these digital domains:
- * M.Sc Dissertation - A Hybrid Fuzzy-Random Forest Classification Model for Severe Weather in Kolkata regions.
- * BDM Project under IITM (A Capstone Level Project)- A Project/Case study of a local Cafe business to optimize their inventory and maximize their profits through rigorous statistical analysis.
- * A Cough Sound Detection Project- A Cough Sound Detection Project using DNN and end-to-end deployment using FastAPI and Render deployment services.
 
-Seeking Collaborators 🤝
-I am actively looking to join forces on projects related to Data Analytics and Data Science. If you have a quest that requires a skilled data-wrangler, I am ready to lend my expertise and embark on new adventures together! ⚔️
-Join Our Fellowship 🛡️
+* **M.Sc Dissertation** - *A Hybrid Fuzzy-Random Forest Classification Model for Severe Weather in Kolkata regions.*
+* **BDM Project under IITM** - *A Capstone Level Project/Case study of a local Cafe business to optimize their inventory and maximize their profits through rigorous statistical analysis.*
+* **A Cough Sound Detection Project** - *A Cough Sound Detection Project using DNN and end-to-end deployment using FastAPI and Render deployment services.*
+
+---
+
+### Seeking Collaborators 🤝
+
+I am actively looking to join forces on projects related to **Data Analytics** and **Data Science**. If you have a quest that requires a skilled data-wrangler, I am ready to lend my expertise and embark on new adventures together! ⚔️
+
+---
+
+### Join Our Fellowship 🛡️
+
 If you wish to contribute your own wisdom and skill to these projects, you must follow the sacred rites of our community:
- * Fork this Repository: Make a copy of this domain in your own realm.
- * Create a New Branch: Begin your work in a separate branch, away from the main archives.
- * Perform Your Edits: Make your changes, additions, or improvements.
- * Send a Scroll (pull request): Once your work is complete, send a pull request to the main repository. This is a formal request to merge your changes into our domain. Our elders will review your work and, if it be worthy, it shall be merged. 📜
-The Code of the Land ⚖️
-This realm is governed by a Code of Conduct and a License, which dictate the rules of engagement and the permissions for using our work. Read them carefully, as they are the law of this land. 📜
-Contact ✉️
-Should you wish to send a raven, you can reach me at sourasishghosh02@gmail.com. I look forward to hearing from you. 🐦
+
+* **Fork this Repository:** Make a copy of this domain in your own realm.
+* **Create a New Branch:** Begin your work in a separate branch, away from the main archives.
+* **Perform Your Edits:** Make your changes, additions, or improvements.
+* **Send a Scroll (pull request):** Once your work is complete, send a pull request to the main repository. This is a formal request to merge your changes into our domain. Our elders will review your work and, if it be worthy, it shall be merged. 📜
+
+---
+
+### The Code of the Land ⚖️
+
+This realm is governed by a **Code of Conduct** and a **License**, which dictate the rules of engagement and the permissions for using our work. Read them carefully, as they are the law of this land. 📜
+
+---
+
+### Contact ✉️
+
+Should you wish to send a raven, you can reach me at **sourasishghosh02@gmail.com**. I look forward to hearing from you. 🐦
+
 May your journey through this digital landscape be prosperous, and may your code be bug-free. ✨
 
-Huzzah! 🎉
+**Huzzah!** 🎉
