@@ -1,4 +1,5 @@
 **Hark, bold explorer, and welcome to this digital domain!**
+
 You've stumbled upon a hidden trove of knowledge and craftsmanship, a testament to the digital arts of this age. This scroll, the README, shall serve as your guide through this repository, a map of the treasures within.
 
 You've stumbled upon the personal workshop of Sourasish Ghosh, a humble seeker of knowledge and a Data Science enthusiast.
@@ -14,12 +15,6 @@ Should you wish to send a raven, you can reach me at sourasishghosh02@gmail.com.
 - 📫 You can reach me via my mail: sourasishghosh02@gmail.com
 
 
-The Repository's Charter
-This domain is dedicated to the ancient craft of Software Development, a practice that shapes the very fabric of our digital world. Herein lies the source code, the very blueprints of our creations.
-Where to Find the Lore
- * The Archives (main branch): This is the main hall of the repository, the master branch where all tested and true code resides. Approach with reverence, for this is the official history.
- * The Scriptorium (other branches): Here, you will find the ongoing work of our scribes and artisans. These branches, often named after their purpose, hold works-in-progress, new features, and bug fixes.
- * The Ledger of Deeds (commit history): Every change, every modification, every whispered thought of the developers is chronicled in the commit history. It's a living record of our journey, a testament to the evolution of this project.
 How to Join Our Fellowship
 If you wish to contribute your own wisdom and skill to this project, you must follow the sacred rites of our community:
  * Fork this Repository: Make a copy of this domain in your own realm.
