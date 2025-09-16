@@ -1,4 +1,4 @@
-## The Chronicle of Sourasish Ghosh 📜
+# The Chronicle of Sourasish Ghosh 📜
 
 **Hark, bold explorer, and welcome to this digital domain!** 👑
 
