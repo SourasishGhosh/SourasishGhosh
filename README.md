@@ -28,16 +28,6 @@ Herein lie the fruits of my labor, each project a tale in itself. Feel free to e
 
 ---
 
-### Join Our Fellowship 🛡️
-
-If you wish to contribute your own wisdom and skill to these projects, you must follow the sacred rites of our community:
-
-* **Fork this Repository:** Make a copy of this domain in your own realm.
-* **Create a New Branch:** Begin your work in a separate branch, away from the main archives.
-* **Perform Your Edits:** Make your changes, additions, or improvements.
-* **Send a Scroll (pull request):** Once your work is complete, send a pull request to the main repository. This is a formal request to merge your changes into our domain. Our elders will review your work and, if it be worthy, it shall be merged. 📜
-
----
 
 ### Contact ✉️
 
