@@ -1,18 +1,18 @@
-# The Chronicle of Sourasish Ghosh 📜
+# The Chronicle of Sourasish Ghosh 
 
-**Hark, bold explorer, and welcome to this digital domain!** 👑
+**Hark, bold explorer, and welcome to this digital domain!**
 
 You've stumbled upon the personal workshop of **Sourasish Ghosh**, a humble seeker of knowledge and a Data Science enthusiast. Within this repository lies a chronicle of my endeavors, a testament to the digital arts of this age. 
 
 ---
 
-### My Journey 🗺️
+### My Journey 
 
 I am currently deep in the pursuit of wisdom, studying **Data Science** at IITM and exploring the skies through my M.Sc. degree in **Atmospheric Sciences**. My mind is abuzz with the fascinating connections between numbers and the natural world, and I am driven by the quest to unravel their secrets. 
 
 ---
 
-### The Tools of My Trade 🛠️
+### The Tools of My Trade 
 
 I've found my footing and become proficient in the language of **Python** , wielding libraries like *Matplotlib, Pandas, PyTorch, TensorFlow, SciPy, and NumPy* to unravel complex datasets. Beyond that, I am also well-versed in **SQL**, **Excel**, and a variety of other useful tools for my craft. 
 
@@ -29,10 +29,9 @@ Herein lie the fruits of my labor, each project a tale in itself. Feel free to e
 ---
 
 
-### Contact ✉️
+### Contact 
+you can reach me at **sourasishghosh02@gmail.com**.
 
-Should you wish to send a raven, you can reach me at **sourasishghosh02@gmail.com**. I look forward to hearing from you. 
 
-May your journey through this digital landscape be prosperous, and may your code be bug-free. ✨
 
-**Huzzah!** 🎉
+
