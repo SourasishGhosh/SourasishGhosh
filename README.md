@@ -1,4 +1,4 @@
-# Hark, bold explorer, and welcome to this digital domain!**
+# Hark, bold explorer, and welcome to this digital domain!
 
 You've stumbled upon the personal workshop of **Sourasish Ghosh**, a humble seeker of knowledge and a Data Science enthusiast. Within this repository lies a chronicle of my endeavors, a testament to the digital arts of this age. 
 
