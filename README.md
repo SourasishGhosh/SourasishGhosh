@@ -6,7 +6,7 @@ You've stumbled upon the personal workshop of **Sourasish Ghosh**, a humble seek
 
 ### My Journey 
 
-I am currently studying **Data Science** at IITM and exploring the through my M.Sc. degree in **Atmospheric Sciences**.
+I am currently studying **Data Science** at IITM and exploring  my M.Sc. degree in **Atmospheric Sciences**.
 
 
 ---
